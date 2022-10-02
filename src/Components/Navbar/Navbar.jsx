@@ -30,7 +30,7 @@ export default class Navbar extends Component {
                                     <NavLink className="nav-link" to="/about">About</NavLink>
                                 </li>
                                 <li className="nav-item">
-                                    <NavLink className="nav-link" to="/networks">networks</NavLink>
+                                    <NavLink className="nav-link" to="/networks">Networks</NavLink>
                                 </li>
                             </ul>
                             <form className="d-flex" role="search">
