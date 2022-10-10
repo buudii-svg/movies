@@ -43,7 +43,7 @@ export default class Navbar extends Component {
                                 <i className="fa-brands fa-youtube"></i>
                             </div>
                             <div className=''>
-                                <button type="button" className="btn btn-outline-secondary ms-5 me-1 shadow-none border-0 text-white" >Logout</button>
+                                <NavLink type="button" className="btn btn-outline-secondary ms-5 me-1 shadow-none border-0 text-white" to="/login">Logout</NavLink>
                             </div>
                         </div>
                     </div>
